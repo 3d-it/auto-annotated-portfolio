@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "dennis@3d-it.net",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by 3d-it.net\n",
