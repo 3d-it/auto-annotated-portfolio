@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This
+title: 3d-it.net
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
