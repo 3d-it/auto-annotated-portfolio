@@ -202,7 +202,7 @@ sections:
       - type: Label
         label: Shopify
       - type: Label
-        label: React
+        label: Visual Studios
       - type: Label
         label: Microsoft Office
       - type: Label
