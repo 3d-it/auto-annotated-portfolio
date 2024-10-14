@@ -13,8 +13,7 @@ sections:
       cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
     media:
       type: ImageBlock
-      url: >-
-        /images/Certificate-for-Ulta-HP-Engage-One-Pro-AIO-System-2_page-0001.jpg
+      url: /images/Resume-IT-2024-5-791x1024.png
       altText: Hero image
     styles:
       self:
@@ -134,7 +133,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/dennis-duke-63200b310/'
         styles:
           self:
             textAlign: left
@@ -201,21 +200,27 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Shopify
       - type: Label
-        label: React
+        label: Visual Studios
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: WordPress
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: WIX
       - type: Label
-        label: C++
+        label: HTML
       - type: Label
-        label: Swift
+        label: CSS
+      - type: Label
+        label: Microsoft Teams
+        url: ''
+      - type: Label
+        label: Visual Studio Code
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -251,26 +256,26 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |
           **Current**
 
-          * freelance @freelance.me
+          *   3d-it.net
 
-          **2018-2021**
+          **2021-2024**
 
-          * fullstack at this startup
+          *   Barrister
 
-          **2015**
+          **2023-2024**
 
-          * senior front-end at this place
+          *   Tost Pizza
 
-          **2013**
+          **2019-2022**
 
-          * intern developer at a big company
+          *   William Sellers Plumbing
 
-          **2011**
+          **2017-2019**
 
-          * flipping burgers
+          *   Pappy & Harriet's
         styles:
           self:
             textAlign: left
@@ -281,18 +286,21 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **Current**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Enrolled in Computer Information Technology California Baptist
+          University
 
-          * react certificate somewhere
 
-          **2011**
+          **2012-2022**
 
-          * my highschool
+
+          *   AS computer science Copper Mountain Community College
+
+
+
         styles:
           self:
             textAlign: left
