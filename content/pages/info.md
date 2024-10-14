@@ -212,7 +212,7 @@ sections:
       - type: Label
         label: WIX
       - type: Label
-        label: C++
+        label: HTML
       - type: Label
         label: Swift
   - type: DividerSection
