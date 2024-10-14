@@ -43,7 +43,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Education
-    subtitle: Certificates
+    subtitle: Certifications
     images:
       - type: ImageBlock
         url: /images/Alison-ITSM.png
