@@ -42,8 +42,8 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
+    title: Education
+    subtitle: Certificates
     images:
       - type: ImageBlock
         url: /images/Alison-ITSM.png
