@@ -133,7 +133,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/dennis-duke-63200b310/'
         styles:
           self:
             textAlign: left
