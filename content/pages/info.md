@@ -210,7 +210,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: WIX
       - type: Label
         label: C++
       - type: Label
