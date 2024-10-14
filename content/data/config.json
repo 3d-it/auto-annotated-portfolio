@@ -22,16 +22,6 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
-            },
-            {
-                "type": "Link",
-                "label": "3D-IT.NET",
-                "altText": "",
-                "url": "https://sourcegraph.com/cody/chat",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [
