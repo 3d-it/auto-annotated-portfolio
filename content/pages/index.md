@@ -41,6 +41,62 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/Alison-ITSM.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Untitled-design-8.png
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/webDesign-1.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          /images/Certificate-for-Ulta-HP-Engage-One-Pro-AIO-System-2_page-0001.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Certificate-for-Costco-Toshiba-1.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/alisonFoundationalMarketingConcepts-1.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
