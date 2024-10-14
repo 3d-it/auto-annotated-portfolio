@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "3d-it.net",
+        "title": "3D-IT.NET",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -22,25 +22,15 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
-            },
-            {
-                "type": "Link",
-                "label": "3D-IT.NET",
-                "altText": "",
-                "url": "https://sourcegraph.com/cody/chat",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
                 "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/dennis-duke-63200b310/",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
