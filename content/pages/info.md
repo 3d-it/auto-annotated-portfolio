@@ -286,18 +286,21 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **Current**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Enrolled in Computer Information Technology California Baptist
+          University
 
-          * react certificate somewhere
 
-          **2011**
+          **2012-2022**
 
-          * my highschool
+
+          *   AS computer science Copper Mountain Community College
+
+
+
         styles:
           self:
             textAlign: left
