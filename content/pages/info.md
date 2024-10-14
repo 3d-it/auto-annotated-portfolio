@@ -215,6 +215,9 @@ sections:
         label: HTML
       - type: Label
         label: CSS
+      - type: Label
+        label: Microsoft Teams
+        url: ''
   - type: DividerSection
     styles:
       self:
