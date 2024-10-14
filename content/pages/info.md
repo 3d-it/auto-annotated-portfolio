@@ -256,26 +256,26 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |
           **Current**
 
-          * freelance @freelance.me
+          *   3d-it.net
 
-          **2018-2021**
+          **2021-2024**
 
-          * fullstack at this startup
+          *   Barrister
 
-          **2015**
+          **2023-2024**
 
-          * senior front-end at this place
+          *   Tost Pizza
 
-          **2013**
+          **2019-2022**
 
-          * intern developer at a big company
+          *   William Sellers Plumbing
 
-          **2011**
+          **2017-2019**
 
-          * flipping burgers
+          *   Pappy & Harriet's
         styles:
           self:
             textAlign: left
