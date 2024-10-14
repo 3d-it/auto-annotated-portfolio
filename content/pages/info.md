@@ -218,6 +218,9 @@ sections:
       - type: Label
         label: Microsoft Teams
         url: ''
+      - type: Label
+        label: Visual Studio Code
+        url: ''
   - type: DividerSection
     styles:
       self:
