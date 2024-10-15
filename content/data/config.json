@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/RctINFORMATION-TECHNOLOGY-3D-IT-LOGO.png",
+    "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
