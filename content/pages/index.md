@@ -56,7 +56,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/webDesign-1.jpg
+        url: /images/WebDesignAlison_Certificate-4065-30146722.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
