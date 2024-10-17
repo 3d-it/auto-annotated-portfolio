@@ -8,7 +8,7 @@ excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
-  altText: Post thumbnail image
+  altText: How to connect a website blog image
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-3.jpg
