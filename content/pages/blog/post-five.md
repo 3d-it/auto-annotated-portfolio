@@ -4,7 +4,17 @@ title: What is Cody Chat?
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Cody Chat is an AI-powered chatbot designed to support coding, communication,
+  and collaboration in a variety of fields. Unlike traditional chatbots that are
+  limited to simple queries, Cody Chat specializes in more complex interactions,
+  providing developers, teams, and businesses with intelligent conversational
+  interfaces for solving problems, answering questions, and even writing
+  code.This versatile tool uses advanced natural language processing (NLP) to
+  understand user inputs and generate meaningful responses. Whether you're
+  working on a software project, looking to brainstorm ideas, or even just need
+  help learning to code, Cody Chat acts as an intelligent assistant capable of
+  providing personalized responses and support.
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
