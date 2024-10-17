@@ -4,7 +4,9 @@ title: How to Create and Host a Free Website Using Netlify Templates
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Here’s how you can create and host a website using a free template on Netlify,
+  without needing to build your website from scratch
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
