@@ -14,7 +14,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/3dLogo2.png
-  altText: Post thumbnail image
+  altText: What is chat gpt blog image
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
