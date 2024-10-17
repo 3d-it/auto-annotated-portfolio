@@ -59,7 +59,7 @@ Netlify provides free templates that allow you to quickly launch a website witho
 
 Netlify has an extensive collection of free website templates that you can use for blogs, portfolios, businesses, and more.
 
-1.  Go to the [Netlify Templates Gallery]().
+1.  Go to the [Netlify Templates Gallery](https://templates.netlify.com/tags/netlifyCMS).
 
 2.  Browse through the available templates to find one that fits your project’s needs.
 
@@ -129,11 +129,8 @@ If you want your website to have a custom domain (e.g., `yourwebsite.com`), foll
 
 Each time you make changes to the website code (either locally or through GitHub), Netlify will automatically trigger a new build and deploy the updated version of your website.
 
-
-
 ### Conclusion
 
 Using Netlify’s free hosting and templates, you can quickly deploy a beautiful website in minutes without any complex setup. You don’t need any technical expertise to get started, and you can always customize your site later as you grow. Happy hosting!
 
-You can visit [Netlify's Templates Gallery]() to start exploring templates now!
-
+You can visit [Netlify's Templates Gallery](https://templates.netlify.com/tags/netlifyCMS) to start exploring templates now!
