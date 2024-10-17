@@ -4,7 +4,7 @@ title: 'How to Connect a Website: A Step-by-Step Guide'
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Easy guide to connect a website
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
