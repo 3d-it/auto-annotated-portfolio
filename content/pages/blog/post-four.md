@@ -13,7 +13,7 @@ excerpt: >-
   need to know about using ChatGPT effectively.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/3dLogo2.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
