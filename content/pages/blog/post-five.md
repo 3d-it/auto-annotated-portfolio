@@ -8,7 +8,7 @@ excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
-  altText: Post thumbnail image
+  altText: What is Cody Chat blog image
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
