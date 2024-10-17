@@ -9,7 +9,7 @@ excerpt: >-
   without needing to build your website from scratch
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/3dBwLogo-3.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
