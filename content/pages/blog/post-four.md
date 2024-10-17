@@ -4,7 +4,13 @@ title: 'Sharing my wisdom with the world '
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Artificial intelligence (AI) has revolutionized the way we interact with
+  technology, and ChatGPT is one of the most exciting applications of AI.
+  ChatGPT, developed by OpenAI, is an advanced language model that can answer
+  questions, provide recommendations, assist with writing, and even hold
+  meaningful conversations. In this guide, I’ll walk you through everything you
+  need to know about using ChatGPT effectively.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
