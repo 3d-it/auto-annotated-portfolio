@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project
+title: How to Create and Host a Free Website Using Netlify Templates
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
