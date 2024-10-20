@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/RctINFORMATION-TECHNOLOGY-3D-IT-LOGO.svg",
+    "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -12,11 +12,6 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
             },
             {
                 "type": "Link",
