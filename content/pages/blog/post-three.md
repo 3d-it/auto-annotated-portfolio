@@ -12,7 +12,7 @@ excerpt: >-
   your online presence without relying on paid ads.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/RctINFORMATION-TECHNOLOGY-3D-IT-LOGO.png
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
