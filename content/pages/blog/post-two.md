@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The Great Unbundling
+title: 'How to Purchase a Domain: A Step-by-Step Guide for Beginners'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
