@@ -4,7 +4,13 @@ title: What is Site Indexing? An Essential Guide for Beginners
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Site indexing is the process where search engines like Google discover and
+  catalog the pages of your website. Think of it as adding your site to a
+  massive online library. Without indexing, your site won’t appear in search
+  results. By submitting a sitemap, creating quality content, and ensuring your
+  site is mobile-friendly, you can help search engines index your pages and
+  boost your visibility online
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
