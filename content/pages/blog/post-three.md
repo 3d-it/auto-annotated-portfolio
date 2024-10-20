@@ -4,7 +4,12 @@ title: What is SEO? An Easy Guide for Beginners
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  SEO, or Search Engine Optimization, helps your website rank higher in search
+  results, making it easier for people to find. By using the right keywords,
+  creating valuable content, and optimizing your site for speed and mobile use,
+  SEO attracts more visitors and builds trust. It’s an essential tool to grow
+  your online presence without relying on paid ads.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
