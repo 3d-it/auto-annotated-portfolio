@@ -11,7 +11,13 @@ backgroundImage:
   opacity: 75
 date: '2021-11-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Buying a domain is the first step to creating your online presence. Start by
+  choosing a memorable and brand-relevant domain name, then check its
+  availability through a domain registrar like GoDaddy or Namecheap. Once
+  selected, you can purchase and register the domain, ensuring it’s linked to
+  your website or future projects. Don’t forget to add domain privacy protection
+  to keep your personal details secure
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
