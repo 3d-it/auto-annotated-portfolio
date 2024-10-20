@@ -23,7 +23,7 @@ featuredImage:
   url: /images/featured-Image2.jpg
   altText: Post thumbnail image
 media:
-  url: /images/post-4.png
+  url: /images/contact.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
