@@ -13,7 +13,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/RctINFORMATION-TECHNOLOGY-3D-IT-LOGO.png
-  altText: Post thumbnail image
+  altText: Seo blog image
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-2.jpg
