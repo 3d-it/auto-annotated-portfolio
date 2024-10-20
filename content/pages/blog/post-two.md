@@ -24,7 +24,7 @@ featuredImage:
   altText: Post thumbnail image
 media:
   url: /images/contact.jpg
-  altText: altText of the image
+  altText: How to purchase a domain blog image
   caption: Caption of the image
   elementId: ''
   type: ImageBlock
