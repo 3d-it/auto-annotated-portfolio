@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: How I started a startup
+title: What is Site Indexing? An Essential Guide for Beginners
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
