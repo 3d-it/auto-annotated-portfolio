@@ -80,6 +80,7 @@ sections:
             label: LinkedIn
             url: 'https://www.linkedin.com/in/dennis-duke-63200b310/'
             icon: linkedin
+            showIcon: true
         styles:
           self:
             textAlign: left
