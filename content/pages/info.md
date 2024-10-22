@@ -81,6 +81,7 @@ sections:
             url: 'https://www.linkedin.com/in/dennis-duke-63200b310/'
             icon: linkedin
             showIcon: true
+            iconPosition: left
         styles:
           self:
             textAlign: left
