@@ -139,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://www.desertgrownorganics.com/'
         styles:
           self:
             textAlign: left
