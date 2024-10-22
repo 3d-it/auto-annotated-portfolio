@@ -140,6 +140,7 @@ sections:
           - type: Link
             label: DESERTGROWNORGANICS
             url: 'https://www.desertgrownorganics.com/'
+            altText: DESERT GROWN ORGANICS LINK
         styles:
           self:
             textAlign: left
