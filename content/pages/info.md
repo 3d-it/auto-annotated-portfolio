@@ -83,11 +83,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: DESERTGROWNORGANICS.COM
-            url: 'https://www.desertgrownorganics.com/'
-            altText: DESERT GROWN ORGANICS LINK
+        actions: []
         styles:
           self:
             textAlign: left
