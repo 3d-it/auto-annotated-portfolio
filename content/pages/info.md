@@ -147,7 +147,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: JOSHUATREEJERKY.COM
             url: 'https://joshuatreejerky.com/'
         styles:
           self:
