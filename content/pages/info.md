@@ -138,7 +138,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: DESERTGROWNORGANICS
             url: 'https://www.desertgrownorganics.com/'
         styles:
           self:
