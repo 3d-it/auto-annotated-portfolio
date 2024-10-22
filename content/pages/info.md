@@ -138,7 +138,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: DESERTGROWNORGANICS
+            label: DESERTGROWNORGANICS.COM
             url: 'https://www.desertgrownorganics.com/'
             altText: DESERT GROWN ORGANICS LINK
         styles:
