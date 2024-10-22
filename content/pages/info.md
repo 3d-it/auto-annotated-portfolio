@@ -88,10 +88,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: JOSHUATREEJERKY.COM
-            url: 'https://joshuatreejerky.com/'
+        actions: []
         styles:
           self:
             textAlign: left
