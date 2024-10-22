@@ -79,6 +79,7 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/in/dennis-duke-63200b310/'
+            icon: linkedin
         styles:
           self:
             textAlign: left
