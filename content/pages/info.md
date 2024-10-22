@@ -148,7 +148,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://joshuatreejerky.com/'
         styles:
           self:
             textAlign: left
