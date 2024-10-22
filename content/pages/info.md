@@ -138,16 +138,17 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            label: DESERTGROWNORGANICS.COM
+            url: 'https://www.desertgrownorganics.com/'
+            altText: DESERT GROWN ORGANICS LINK
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            label: JOSHUATREEJERKY.COM
+            url: 'https://joshuatreejerky.com/'
         styles:
           self:
             textAlign: left
@@ -180,7 +181,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'Some websites I worked on:'
   - type: DividerSection
     styles:
       self:
