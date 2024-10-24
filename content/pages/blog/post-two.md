@@ -21,7 +21,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/INFORMATION TECHNOLOGY 3D-IT LOGO (12).png
-  altText: Post thumbnail image
+  altText: How to purchase a domain blog image
 media:
   url: /images/contact.jpg
   altText: How to purchase a domain blog image
