@@ -81,7 +81,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
+            label: JOSHUATREEJERKY.COM
             altText: ''
             url: 'https://joshuatreejerky.com'
             showIcon: false
