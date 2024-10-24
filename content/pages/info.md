@@ -100,7 +100,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
+            label: SCROLLGEOMETRY.COM
             altText: ''
             url: 'https://scrollgeometry.com'
             showIcon: false
