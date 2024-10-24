@@ -69,8 +69,7 @@ sections:
         styles:
           self:
             textAlign: left
-        text: |
-          test
+        text: ''
       - type: FeaturedItem
         actions: []
         styles:
