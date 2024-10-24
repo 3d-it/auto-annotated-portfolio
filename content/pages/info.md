@@ -79,7 +79,15 @@ sections:
             textAlign: left
         text: ''
       - type: FeaturedItem
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: 'https://joshuatreejerky.com'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
