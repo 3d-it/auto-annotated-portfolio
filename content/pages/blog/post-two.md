@@ -20,7 +20,7 @@ excerpt: >-
   to keep your personal details secure
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image2.jpg
+  url: /images/INFORMATION TECHNOLOGY 3D-IT LOGO (12).png
   altText: Post thumbnail image
 media:
   url: /images/contact.jpg
