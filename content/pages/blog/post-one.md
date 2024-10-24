@@ -14,7 +14,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/INFORMATION TECHNOLOGY 3D-IT LOGO (13).png
-  altText: Post thumbnail image
+  altText: What is site indexing blog image
 media:
   url: /images/post-2.jpg
   altText: altText of the image
