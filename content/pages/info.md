@@ -69,6 +69,8 @@ sections:
         styles:
           self:
             textAlign: left
+        text: |
+          test
       - type: FeaturedItem
         actions: []
         styles:
