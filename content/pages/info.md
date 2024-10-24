@@ -67,7 +67,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
+            label: DESERTGROWNORGANICS.COM
             altText: ''
             url: 'https://desertgrownorganics.com'
             showIcon: false
