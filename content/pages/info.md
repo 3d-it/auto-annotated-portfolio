@@ -67,16 +67,27 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+            label: DESERTGROWNORGANICS.COM
+            altText: ''
+            url: 'https://desertgrownorganics.com'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
+        text: ''
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: JOSHUATREEJERKY.COM
+            altText: ''
+            url: 'https://joshuatreejerky.com'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
@@ -85,41 +96,33 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/in/dennis-duke-63200b310/'
+            icon: linkedin
+            showIcon: true
+            iconPosition: right
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: DESERTGROWNORGANICS.COM
-            url: 'https://www.desertgrownorganics.com/'
-            altText: DESERT GROWN ORGANICS LINK
+            label: SCROLLGEOMETRY.COM
+            altText: ''
+            url: 'https://scrollgeometry.com'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: JOSHUATREEJERKY.COM
-            url: 'https://joshuatreejerky.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
+        text: ''
     columns: 3
     spacingX: 120
     spacingY: 0
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-8
           - pb-8
@@ -134,7 +137,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'Some websites I worked on:'
+    subtitle: 'Some website I have worked on:'
   - type: DividerSection
     styles:
       self:
