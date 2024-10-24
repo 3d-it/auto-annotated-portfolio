@@ -20,8 +20,8 @@ excerpt: >-
   to keep your personal details secure
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image2.jpg
-  altText: Post thumbnail image
+  url: /images/INFORMATION TECHNOLOGY 3D-IT LOGO (12).png
+  altText: How to purchase a domain blog image
 media:
   url: /images/contact.jpg
   altText: How to purchase a domain blog image

@@ -13,8 +13,8 @@ excerpt: >-
   boost your visibility online
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
-  altText: Post thumbnail image
+  url: /images/INFORMATION TECHNOLOGY 3D-IT LOGO (13).png
+  altText: What is site indexing blog image
 media:
   url: /images/post-2.jpg
   altText: altText of the image
