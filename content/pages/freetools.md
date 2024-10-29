@@ -6,7 +6,10 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Free Resources and Tools
-    subtitle: The section subtitle
+    subtitle: >-
+      Explore a curated collection of essential free resources and tools for web
+      developers—everything you need to design, code, and optimize your websites
+      efficiently.
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
