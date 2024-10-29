@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "Free Tools",
                 "altText": "",
-                "url": "3d-it.net/freetools/",
+                "url": "/freetools",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
