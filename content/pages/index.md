@@ -140,7 +140,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: FeaturedItemsSection
-    title: Books I Have Published
+    title: Books I Have Published Using AI
     items:
       - type: FeaturedItem
         title: >-
