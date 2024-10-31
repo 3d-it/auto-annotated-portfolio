@@ -30,8 +30,8 @@ sections:
 
 
       *   **Atom** – Another popular, open-source editor with a user-friendly
-      interface and customizable themes and packages. [Get
-      Atom](https://atom.io/)
+      interface and customizable themes and packages. <a href="https://atom.io/"
+      target="_blank" rel="noopener noreferrer">Get Atom</a>
 
 
       ### **2. Design and Prototyping**
@@ -43,8 +43,9 @@ sections:
 
 
       *   **Canva** – Great for quick graphics, social media content, and design
-      mockups. Canva’s free tier offers a range of templates and elements. [Use
-      Canva](https://canva.com)
+      mockups. Canva’s free tier offers a range of templates and elements. <a
+      href="https://canva.com" target="_blank" rel="noopener noreferrer">Use
+      Canva</a>
 
 
       ### **3. CSS Frameworks**
