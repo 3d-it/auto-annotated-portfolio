@@ -10,7 +10,7 @@ sections:
       Explore a curated collection of essential free resources and tools for web
       developers—everything you need to design, code, and optimize your websites
       efficiently.
-    text: >+
+    text: >
       **Welcome to Your Web Development Toolkit!**
 
 
@@ -20,21 +20,18 @@ sections:
       projects, and keep you on top of the latest in web development.
 
 
-
-
       ### **1. Code Editors**
 
 
       *   **Visual Studio Code** – A powerful, open-source code editor with
       extensive customization options, integrated Git, and a rich library of
-      extensions. [Download VS Code](https://code.visualstudio.com/)
+      extensions. <a href="https://code.visualstudio.com/" target="_blank"
+      rel="noopener noreferrer">Download VS Code</a>
 
 
       *   **Atom** – Another popular, open-source editor with a user-friendly
-      interface and customizable themes and packages. [Get
-      Atom](https://atom.io/)
-
-
+      interface and customizable themes and packages. <a href="https://atom.io/"
+      target="_blank" rel="noopener noreferrer">Get Atom</a>
 
 
       ### **2. Design and Prototyping**
@@ -46,10 +43,9 @@ sections:
 
 
       *   **Canva** – Great for quick graphics, social media content, and design
-      mockups. Canva’s free tier offers a range of templates and elements. [Use
-      Canva](https://canva.com)
-
-
+      mockups. Canva’s free tier offers a range of templates and elements. <a
+      href="https://canva.com" target="_blank" rel="noopener noreferrer">Use
+      Canva</a>
 
 
       ### **3. CSS Frameworks**
@@ -65,8 +61,6 @@ sections:
       Tailwind](https://tailwindcss.com/)
 
 
-
-
       ### **4. Testing and Debugging**
 
 
@@ -78,8 +72,6 @@ sections:
       *   **Postman** – Ideal for API testing and development, enabling you to
       easily create and send HTTP requests. [Download
       Postman](https://postman.com)
-
-
 
 
       ### **5. Free Hosting and Deployment**
@@ -95,8 +87,6 @@ sections:
       GitHub Pages](https://pages.github.com/)
 
 
-
-
       ### **6. Learning and Documentation**
 
 
@@ -108,8 +98,6 @@ sections:
       *   **FreeCodeCamp** – Hands-on coding challenges and tutorials covering
       everything from HTML basics to full-stack development. [Start
       Learning](https://www.freecodecamp.org/)
-
-
 
 
       ### **7. Performance and Optimization**
@@ -125,16 +113,12 @@ sections:
       GTmetrix](https://gtmetrix.com/)
 
 
-
-
       ### **8. Version Control**
 
 
       *   **Git** – An essential version control tool for tracking changes in
       your code, with tutorials and guides available on GitHub’s website.
       [Download Git](https://git-scm.com/)
-
-
 
 
       ### **9. Browser Extensions**
@@ -148,13 +132,8 @@ sections:
       performance, SEO, and accessibility. [Install Lighthouse]()
 
 
-
-
       Use these tools to build, design, and deploy faster, and make the most of
       your development journey without the overhead costs.
-
-
-
     elementId: ''
     styles:
       self:
