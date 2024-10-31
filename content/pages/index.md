@@ -239,7 +239,8 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: >-
+              https://www.amazon.com/SEO-Made-Easy-Beginners-Boosting/dp/B0DKK38VJF/ref=sr_1_1?crid=2KO48UBDMW7E4&dib=eyJ2IjoiMSJ9.TPcCD3us2YqVgOPOnJ38P5K369CEZRCusNQjJ62zxMU.hd-6Q-FofbnDYmv33UPG5G50OB7eIuGvS-MVrnk4zV8&dib_tag=se&keywords=dennis+duke+seo&qid=1730347084&s=books&sprefix=dennis+duke+s%2Cstripbooks%2C820&sr=1-1
             showIcon: true
             icon: arrowRight
             iconPosition: right
