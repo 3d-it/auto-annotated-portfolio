@@ -208,10 +208,27 @@ sections:
       - type: FeaturedItem
         title: 'SEO Made Easy: A Beginner''s Guide to Boosting Your Online Presence'
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          *   Easy-to-follow guide to SEO, ideal for beginners
+
+          *   Explains how search engines work
+
+          *   Provides tips for finding the right keywords
+
+          *   Simple steps to improve your website
+
+          *   Practical advice for on-page and off-page SEO
+
+          *   Guidance on making your site mobile-friendly
+
+          *   Tips for reaching local audiences
+
+          *   Straightforward advice and best practices
+
+          *   Learn how to track your progress
+
+          *   Boost your online presence effectively
+
         featuredImage:
           type: ImageBlock
           url: >-
