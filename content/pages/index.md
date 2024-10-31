@@ -206,7 +206,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: 'SEO Made Easy: A Beginner''s Guide to Boosting Your Online Presence'
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
