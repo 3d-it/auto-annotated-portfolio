@@ -65,7 +65,7 @@ ChatGPT is an AI model trained to understand and generate human-like text based 
 
 You can access ChatGPT via:
 
-*   **OpenAI’s website**: Visit [chat.openai.com](https://chat.openai.com/) to create an account and start interacting.
+*   **OpenAI’s website**: Visit <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">chat.openai.com</a> to create an account and start interacting.
 
 *   **API integration**: If you’re a developer, you can integrate ChatGPT into your applications using OpenAI’s API (available through a paid subscription).
 
