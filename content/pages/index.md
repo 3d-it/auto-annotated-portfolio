@@ -139,4 +139,137 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: FeaturedItemsSection
+    title: Books I Have Published Using AI
+    items:
+      - type: FeaturedItem
+        title: >-
+          Build Your Ultimate Gaming PC: A Easy Beginner’s Guide to Crafting the
+          Perfect Rig
+        subtitle: ''
+        text: "*   How to Select the Right Parts for Your Budget: Learn about CPUs, GPUs, RAM, storage, and power supplies to build the perfect setup for your gaming needs.\n\n*   Step-by-Step Assembly Instructions: Easy-to-follow steps and detailed explanations guide you from installing the CPU to powering on your new rig.\n\n*   Tips for Optimizing Performance: Understand overclocking basics, cooling options, and advanced tweaks to get the most out of your build.\n\n*   Personalize Your PC: Explore creative ways to customize with RGB lighting, case mods, and personalized software settings.\n\n*   Troubleshooting Made Simple: Quick tips for solving common PC issues, so you can game without interruptions.\n\nWith easy instructions, helpful illustrations, and expert advice,\_Build Your Ultimate Gaming PC\_will empower you to create a powerful, custom rig—no experience required. Dive in and start building today!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/buildGamingPCCover.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Build-Your-Ultimate-Gaming-Beginners/dp/B0DL4KZLQ6/ref=sr_1_1?crid=2SBOCMMDBWLA6&dib=eyJ2IjoiMSJ9.Uiwjbm_CSB7__KXntTWTeTNMIkYct2sP3OitE8H24YjGjHj071QN20LucGBJIEps.qgGKFh6h_GwPZHnFulv6l_vNMZxZcpHF8X4zrm8u0Wg&dib_tag=se&keywords=dennis+duke+build&qid=1730346319&s=books&sprefix=dennis+duke+build%2Cstripbooks%2C843&sr=1-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: How to create an Ecommerce Website Easy
+        subtitle: ''
+        text: >
+          Unleash your entrepreneurial spirit and transform your ideas into a
+          thriving online business. This comprehensive ebook guides you
+          step-by-step through the process of building a professional ecommerce
+          website from scratch. No coding or design experience required!
+          Discover how to choose the perfect platform, create captivating
+          product listings, optimize for search engines, and seamlessly
+          integrate secure payment gateways. Learn essential marketing
+          strategies to attract customers and drive sales, while maximizing your
+          profits. With practical tips, real-world examples, and actionable
+          advice, this ebook empowers you to achieve financial independence and
+          create a sustainable passive income stream.
+        featuredImage:
+          type: ImageBlock
+          url: /images/howToCreateEcommerceCover.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/How-create-Ecommerce-Website-easy/dp/B0DB2LK9C3/ref=sr_1_1?crid=7LHGQG5FMYHD&dib=eyJ2IjoiMSJ9.gqtHHkg9r-2oIXBToA_gslC_214EumkWSk6XEahKiB9x4waEnfEFahubrnEo65cI3rVsJnhjDMWmPbPV0ZKJ8wxUbyzTqpGUh5Vib9s624XsQ_43XR_-qBl8AsZGyMyq._vsuJQJIFR4U-sA-iiTAhK_r2GGVM5WGydNaZl9T2-U&dib_tag=se&keywords=dennis+duke+how+to&qid=1730346869&s=books&sprefix=dennis+duke+how+%2Cstripbooks%2C984&sr=1-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 'SEO Made Easy: A Beginner''s Guide to Boosting Your Online Presence'
+        subtitle: ''
+        text: |+
+          *   Easy-to-follow guide to SEO, ideal for beginners
+
+          *   Explains how search engines work
+
+          *   Provides tips for finding the right keywords
+
+          *   Simple steps to improve your website
+
+          *   Practical advice for on-page and off-page SEO
+
+          *   Guidance on making your site mobile-friendly
+
+          *   Tips for reaching local audiences
+
+          *   Straightforward advice and best practices
+
+          *   Learn how to track your progress
+
+          *   Boost your online presence effectively
+
+        featuredImage:
+          type: ImageBlock
+          url: /images/seoCover.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/SEO-Made-Easy-Beginners-Boosting/dp/B0DKK38VJF/ref=sr_1_1?crid=2KO48UBDMW7E4&dib=eyJ2IjoiMSJ9.TPcCD3us2YqVgOPOnJ38P5K369CEZRCusNQjJ62zxMU.hd-6Q-FofbnDYmv33UPG5G50OB7eIuGvS-MVrnk4zV8&dib_tag=se&keywords=dennis+duke+seo&qid=1730347084&s=books&sprefix=dennis+duke+s%2Cstripbooks%2C820&sr=1-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
