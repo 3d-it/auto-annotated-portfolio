@@ -172,10 +172,18 @@ sections:
       - type: FeaturedItem
         title: I'm Smart
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Unleash your entrepreneurial spirit and transform your ideas into a
+          thriving online business. This comprehensive ebook guides you
+          step-by-step through the process of building a professional ecommerce
+          website from scratch. No coding or design experience required!
+          Discover how to choose the perfect platform, create captivating
+          product listings, optimize for search engines, and seamlessly
+          integrate secure payment gateways. Learn essential marketing
+          strategies to attract customers and drive sales, while maximizing your
+          profits. With practical tips, real-world examples, and actionable
+          advice, this ebook empowers you to achieve financial independence and
+          create a sustainable passive income stream.
         featuredImage:
           type: ImageBlock
           url: /images/howToCreateEcommerceCover.jpg
