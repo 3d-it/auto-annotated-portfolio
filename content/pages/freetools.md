@@ -10,7 +10,7 @@ sections:
       Explore a curated collection of essential free resources and tools for web
       developers—everything you need to design, code, and optimize your websites
       efficiently.
-    text: >+
+    text: >
       **Welcome to Your Web Development Toolkit!**
 
 
@@ -20,21 +20,18 @@ sections:
       projects, and keep you on top of the latest in web development.
 
 
-
-
       ### **1. Code Editors**
 
 
       *   **Visual Studio Code** – A powerful, open-source code editor with
       extensive customization options, integrated Git, and a rich library of
-      extensions. [Download VS Code](https://code.visualstudio.com/)
+      extensions. <a href="https://code.visualstudio.com/" target="_blank"
+      rel="noopener noreferrer">Download VS Code</a>
 
 
       *   **Atom** – Another popular, open-source editor with a user-friendly
       interface and customizable themes and packages. [Get
       Atom](https://atom.io/)
-
-
 
 
       ### **2. Design and Prototyping**
@@ -50,8 +47,6 @@ sections:
       Canva](https://canva.com)
 
 
-
-
       ### **3. CSS Frameworks**
 
 
@@ -63,8 +58,6 @@ sections:
       *   **Tailwind CSS** – A utility-first CSS framework for quickly styling
       modern web applications. [Get Started with
       Tailwind](https://tailwindcss.com/)
-
-
 
 
       ### **4. Testing and Debugging**
@@ -80,8 +73,6 @@ sections:
       Postman](https://postman.com)
 
 
-
-
       ### **5. Free Hosting and Deployment**
 
 
@@ -93,8 +84,6 @@ sections:
       *   **GitHub Pages** – Host your static sites directly from your GitHub
       repository for free. Perfect for portfolios and documentation. [Learn
       GitHub Pages](https://pages.github.com/)
-
-
 
 
       ### **6. Learning and Documentation**
@@ -110,8 +99,6 @@ sections:
       Learning](https://www.freecodecamp.org/)
 
 
-
-
       ### **7. Performance and Optimization**
 
 
@@ -125,16 +112,12 @@ sections:
       GTmetrix](https://gtmetrix.com/)
 
 
-
-
       ### **8. Version Control**
 
 
       *   **Git** – An essential version control tool for tracking changes in
       your code, with tutorials and guides available on GitHub’s website.
       [Download Git](https://git-scm.com/)
-
-
 
 
       ### **9. Browser Extensions**
@@ -148,13 +131,8 @@ sections:
       performance, SEO, and accessibility. [Install Lighthouse]()
 
 
-
-
       Use these tools to build, design, and deploy faster, and make the most of
       your development journey without the overhead costs.
-
-
-
     elementId: ''
     styles:
       self:
