@@ -170,7 +170,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: How to create an Ecommerce Website Easy
         subtitle: ''
         text: >
           Unleash your entrepreneurial spirit and transform your ideas into a
