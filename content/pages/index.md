@@ -145,10 +145,7 @@ sections:
       - type: FeaturedItem
         title: I'm Fast
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "*   How to Select the Right Parts for Your Budget: Learn about CPUs, GPUs, RAM, storage, and power supplies to build the perfect setup for your gaming needs.\n\n*   Step-by-Step Assembly Instructions: Easy-to-follow steps and detailed explanations guide you from installing the CPU to powering on your new rig.\n\n*   Tips for Optimizing Performance: Understand overclocking basics, cooling options, and advanced tweaks to get the most out of your build.\n\n*   Personalize Your PC: Explore creative ways to customize with RGB lighting, case mods, and personalized software settings.\n\n*   Troubleshooting Made Simple: Quick tips for solving common PC issues, so you can game without interruptions.\n\nWith easy instructions, helpful illustrations, and expert advice,\_Build Your Ultimate Gaming PC\_will empower you to create a powerful, custom rig—no experience required. Dive in and start building today!\n\n\n\n"
         featuredImage:
           type: ImageBlock
           url: >-
