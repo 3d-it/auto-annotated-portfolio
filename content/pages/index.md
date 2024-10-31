@@ -140,7 +140,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Books I Have Published
     items:
       - type: FeaturedItem
         title: I'm Fast
