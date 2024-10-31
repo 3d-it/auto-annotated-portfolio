@@ -158,7 +158,8 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: >-
+              https://www.amazon.com/Build-Your-Ultimate-Gaming-Beginners/dp/B0DL4KZLQ6/ref=sr_1_1?crid=2SBOCMMDBWLA6&dib=eyJ2IjoiMSJ9.Uiwjbm_CSB7__KXntTWTeTNMIkYct2sP3OitE8H24YjGjHj071QN20LucGBJIEps.qgGKFh6h_GwPZHnFulv6l_vNMZxZcpHF8X4zrm8u0Wg&dib_tag=se&keywords=dennis+duke+build&qid=1730346319&s=books&sprefix=dennis+duke+build%2Cstripbooks%2C843&sr=1-1
             showIcon: true
             icon: arrowRight
             iconPosition: right
