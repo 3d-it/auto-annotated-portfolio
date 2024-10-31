@@ -184,7 +184,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Buy on Amazon
             altText: ''
             url: >-
               https://www.amazon.com/How-create-Ecommerce-Website-easy/dp/B0DB2LK9C3/ref=sr_1_1?crid=7LHGQG5FMYHD&dib=eyJ2IjoiMSJ9.gqtHHkg9r-2oIXBToA_gslC_214EumkWSk6XEahKiB9x4waEnfEFahubrnEo65cI3rVsJnhjDMWmPbPV0ZKJ8wxUbyzTqpGUh5Vib9s624XsQ_43XR_-qBl8AsZGyMyq._vsuJQJIFR4U-sA-iiTAhK_r2GGVM5WGydNaZl9T2-U&dib_tag=se&keywords=dennis+duke+how+to&qid=1730346869&s=books&sprefix=dennis+duke+how+%2Cstripbooks%2C984&sr=1-1
