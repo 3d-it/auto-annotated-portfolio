@@ -96,7 +96,7 @@ sections:
           - type: Link
             label: WEALTHYANDRAD.COM
             url: 'https://wealthyandrad.com/'
-            icon: linkedin
+            icon: chevronLeft
             showIcon: true
             iconPosition: right
         styles:
