@@ -245,16 +245,14 @@ sections:
           **Current**
 
 
-          *   Enrolled in Computer Information Technology California Baptist
+          *   Enrolled in Computer Information Technology at California Baptist
           University
 
 
           **2012-2022**
 
 
-          *   AS computer science Copper Mountain Community College
-
-
+          *   AS degree Computer Science Copper Mountain Community College
 
         styles:
           self:
