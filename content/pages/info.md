@@ -94,7 +94,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: WEALTHYANDRAD.COM
             url: 'https://wealthyandrad.com/'
             icon: linkedin
             showIcon: true
