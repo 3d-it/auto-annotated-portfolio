@@ -94,9 +94,9 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/in/dennis-duke-63200b310/'
-            icon: linkedin
+            label: WEALTHYANDRAD.COM
+            url: 'https://wealthyandrad.com/'
+            icon: ''
             showIcon: true
             iconPosition: right
         styles:
