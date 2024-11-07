@@ -74,6 +74,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
+            target: '_blank'
         styles:
           self:
             textAlign: left
