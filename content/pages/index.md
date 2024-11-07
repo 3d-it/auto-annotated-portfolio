@@ -273,6 +273,17 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://www.amazon.com/dp/B0DM9DFXGN/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.ctxUmoO0HVBM0gCdiwvneg.ZPtzQwrJQ_XA0ViRq__MuSRNo59i6FQuY9egE3qEZIU&qid=1731022129&sr=8-1
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
