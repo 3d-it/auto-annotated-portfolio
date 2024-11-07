@@ -251,9 +251,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: >-
-          An Easy Guide to Creating a Shopify Website: A Step-by-Step Handbook
-          for Building and Launching Your Online Store
+        title: An Easy Guide to Creating a Shopify Website
         subtitle: A Step-by-Step Handbook for Building and Launching Your Online Store
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
