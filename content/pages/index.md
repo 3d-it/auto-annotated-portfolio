@@ -250,6 +250,40 @@ sections:
         styles:
           self:
             textAlign: left
+      - type: FeaturedItem
+        title: An Easy Guide to Creating a Shopify Website
+        subtitle: A Step-by-Step Handbook for Building and Launching Your Online Store
+        text: >+
+          *An Easy Guide to Creating a Shopify Website* is your go-to resource
+          for building, launching, and growing a successful online store.
+          Perfect for beginners and small business owners, this step-by-step
+          guide covers everything from setup and customization to marketing and
+          sales strategies. Packed with practical tips and clear instructions,
+          this book empowers you to create a Shopify store that attracts,
+          engages, and converts customers. Start your e-commerce journey with
+          confidence and bring your business to life online!
+
+        featuredImage:
+          type: ImageBlock
+          url: /images/shopifyBookCover.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/dp/B0DM9DFXGN/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.ctxUmoO0HVBM0gCdiwvneg.ZPtzQwrJQ_XA0ViRq__MuSRNo59i6FQuY9egE3qEZIU&qid=1731022129&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
