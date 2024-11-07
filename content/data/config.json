@@ -63,7 +63,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:dennis@3d-it.net",
                 "altText": ""
             },
             {
@@ -86,7 +86,7 @@
             "phoneAltText": "My phone number",
             "email": "dennis@3d-it.net",
             "emailAltText": "My email",
-            "address": "",
+            "address": "Yucca Valley, California",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by 3d-it.net\n",
