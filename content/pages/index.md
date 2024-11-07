@@ -254,7 +254,7 @@ sections:
         title: >-
           An Easy Guide to Creating a Shopify Website: A Step-by-Step Handbook
           for Building and Launching Your Online Store
-        subtitle: ''
+        subtitle: A Step-by-Step Handbook for Building and Launching Your Online Store
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
