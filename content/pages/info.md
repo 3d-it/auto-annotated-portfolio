@@ -74,7 +74,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
-            target: '_blank'
+            target: _blank
         styles:
           self:
             textAlign: left
@@ -117,6 +117,23 @@ sections:
           self:
             textAlign: left
         text: ''
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: BUYITESSENTIALS.COM
+            altText: ''
+            url: 'https://buyitessentials.com/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0
