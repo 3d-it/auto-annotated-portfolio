@@ -127,7 +127,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: BUYITESSENTIALS.COM
             altText: ''
             url: 'https://buyitessentials.com/'
             showIcon: false
