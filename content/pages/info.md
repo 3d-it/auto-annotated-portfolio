@@ -118,7 +118,7 @@ sections:
             textAlign: left
         text: ''
       - type: FeaturedItem
-        title: BUYITESSENTIALS.COM
+        title: ''
         subtitle: ''
         text: ''
         elementId: ''
