@@ -125,15 +125,7 @@ sections:
         styles:
           self:
             textAlign: left
-        actions:
-          - type: Link
-            label: BUYITESSENTIALS.COM
-            altText: ''
-            url: 'https://buyitessentials.com/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
+        actions: []
     columns: 3
     spacingX: 120
     spacingY: 0
