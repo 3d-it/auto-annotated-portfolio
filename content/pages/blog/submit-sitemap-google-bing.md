@@ -16,7 +16,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/RctINFORMATION-TECHNOLOGY-3D-IT-LOGO.svg
-  altText: Google Search Console Site indexing Blog Post
+  altText: 3d-it.net black and white logo
   caption: Caption of the image
   elementId: ''
 media:
