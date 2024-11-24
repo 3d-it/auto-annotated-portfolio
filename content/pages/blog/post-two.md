@@ -1,6 +1,7 @@
 ---
 type: PostLayout
 title: 'How to Purchase a Domain: A Step-by-Step Guide for Beginners'
+slug: 'How to Purchase a Domain' # Slug
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
