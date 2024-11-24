@@ -1,8 +1,8 @@
 ---
 type: PostLayout
 title: >-
-  Step-by-Step Guide: Submitting Your Sitemap to Google Search Console and Bing
-  Webmasters
+  How to Submit a Sitemap: A Step-by-Step Guide To Google Search Console and
+  Bing Webmasters
 date: '2024-11-23'
 excerpt: >-
   Submitting your sitemap to Google Search Console and Bing Webmasters is a
