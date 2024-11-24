@@ -22,7 +22,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/GSC.png
-  altText: Post image
+  altText: Google Search Console Blog Image
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
