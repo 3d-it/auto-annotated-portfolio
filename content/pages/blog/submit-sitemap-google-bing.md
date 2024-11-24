@@ -15,8 +15,8 @@ excerpt: >-
   everything you need to get started!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  url: /images/RctINFORMATION-TECHNOLOGY-3D-IT-LOGO.svg
+  altText: Google Search Console Site indexing Blog Post
   caption: Caption of the image
   elementId: ''
 media:
