@@ -15,7 +15,7 @@ excerpt: >-
   everything you need to get started!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/RctINFORMATION-TECHNOLOGY-3D-IT-LOGO.svg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
