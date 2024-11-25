@@ -17,7 +17,7 @@ excerpt: >-
   availability through a domain registrar like GoDaddy or Namecheap. Once
   selected, you can purchase and register the domain, ensuring it’s linked to
   your website or future projects. Don’t forget to add domain privacy protection
-  to keep your personal details secure
+  to keep your personal details secured
 featuredImage:
   type: ImageBlock
   url: /images/INFORMATION TECHNOLOGY 3D-IT LOGO (12).png
