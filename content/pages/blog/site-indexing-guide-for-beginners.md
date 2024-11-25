@@ -133,4 +133,4 @@ Sometimes, websites don’t get indexed as expected. Here are some common proble
 
 Site indexing is a vital part of making your website visible to the world. By understanding how indexing works and following best practices like submitting a sitemap and ensuring quality content, you can ensure that your site is easily found by search engines—and by potential visitors.
 
-In the competitive digital world, making sure your site is indexed is one of the first steps to improving your SEO and growing your online presence. So, take control of your site’s visibility and ensure search engines can easily find and rank your content.
+Making sure your site is indexed is one of the first steps to improving your SEO and growing your online presence. So, take control of your site’s visibility and ensure search engines can easily find and rank your content.
