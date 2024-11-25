@@ -61,6 +61,8 @@ ChatGPT is an AI model trained to understand and generate human-like text based 
 
 *   Assisting with learning new topics
 
+*   Generating lists
+
 ### How to Access ChatGPT
 
 You can access ChatGPT via:
